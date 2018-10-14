@@ -1,0 +1,26 @@
+to run Voice2Text2Voice.py
+ 
+run your cmd as administrator
+
+Install using PIP:
+  pip install SpeechRecognition
+  
+  pip install bs4
+  
+  pip install pyglet
+  
+  pip install gtts
+  
+  pip install pygame
+
+  pip install pyaudio
+
+to run Stock.py
+
+  pip install pytrends
+
+  pip install sklearn
+
+  pip install pandas
+
+  pip install numpy
